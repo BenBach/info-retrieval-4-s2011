@@ -65,6 +65,7 @@ region_cap.lst:location:region
 region.lst:location:region
 region_uk.lst:location:region
 sports.lst:sport
+sports2.lst:sport
 spur_ident.lst:spur_ident
 stop.lst:stop
 street.lst:address:street
