@@ -1,0 +1,44 @@
+Phase:   Athlete
+Input: Lookup Token
+Options: control = appelt
+
+Rule: Athlete1
+(
+ {Lookup.majorType == athlete} 
+ (
+  {Lookup.majorType == athlete} 
+ )?
+)
+:athlete
+-->
+ :athlete.Athlete = {rule = "Athlete1"}
+ 
+ Phase:   Sports
+Input: Lookup Token
+Options: control = appelt
+
+Rule: Sports1
+(
+ {Lookup.majorType == sports} 
+ (
+  {Lookup.majorType == sports} 
+ )?
+)
+:sports
+-->
+ :sports.Sports = {rule = "Sports1"}
+ 
+ Phase:   Team
+Input: Lookup Token
+Options: control = appelt
+
+Rule: Team1
+(
+ {Lookup.majorType == team} 
+ (
+  {Lookup.majorType == team} 
+ )?
+)
+:team
+-->
+ :team.Team = {rule = "Team1"}

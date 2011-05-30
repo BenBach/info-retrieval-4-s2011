@@ -1,0 +1,14 @@
+Phase:   Sports
+Input: Lookup Token
+Options: control = appelt
+
+Rule: Sports1
+(
+ {Lookup.majorType == sports} 
+ (
+  {Lookup.majorType == sports} 
+ )?
+)
+:sports
+-->
+ :sports.Sports = {rule = "Sports1"}

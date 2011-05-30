@@ -1,0 +1,14 @@
+Phase:   Team
+Input: Lookup Token
+Options: control = appelt
+
+Rule: Team1
+(
+ {Lookup.majorType == team} 
+ (
+  {Lookup.majorType == team} 
+ )?
+)
+:team
+-->
+ :team.Team = {rule = "Team1"}
