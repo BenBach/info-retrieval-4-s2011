@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY swrl "http://www.w3.org/2003/11/swrl#" >
+    <!ENTITY swrlb "http://www.w3.org/2003/11/swrlb#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+    <!ENTITY protont "http://proton.semanticweb.org/2005/04/protont#" >
+    <!ENTITY protons "http://proton.semanticweb.org/2005/04/protons#" >
+    <!ENTITY protege "http://protege.stanford.edu/plugins/owl/protege#" >
+    <!ENTITY xsp "http://www.owl-ontologies.com/2005/08/07/xsp.owl#" >
+]>
+
+
+<rdf:RDF xmlns="http://gate.ac.uk/owlim#"
+     xml:base="http://gate.ac.uk/owlim"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:swrl="http://www.w3.org/2003/11/swrl#"
+     xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+     xmlns:xsp="http://www.owl-ontologies.com/2005/08/07/xsp.owl#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:protons="http://proton.semanticweb.org/2005/04/protons#"
+     xmlns:protont="http://proton.semanticweb.org/2005/04/protont#">
+    <owl:Ontology rdf:about="file:/Users/patrick/Documents/TU/2011ss/Information%20Retrtieval,%20VU/assignments/4/ontology/sports_ontology.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <owl:AnnotationProperty rdf:about="&rdfs;label"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://gate.ac.uk/owlim#exercised_by -->
+
+    <owl:ObjectProperty rdf:about="http://gate.ac.uk/owlim#exercised_by">
+        <rdfs:label rdf:datatype="&xsd;string">exercised_by</rdfs:label>
+        <rdfs:domain rdf:resource="http://gate.ac.uk/owlim#sports"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://gate.ac.uk/owlim#exercises -->
+
+    <owl:ObjectProperty rdf:about="http://gate.ac.uk/owlim#exercises">
+        <rdfs:label rdf:datatype="&xsd;string">exercises</rdfs:label>
+        <rdfs:domain rdf:resource="http://gate.ac.uk/owlim#sports"/>
+        <rdfs:range rdf:resource="http://gate.ac.uk/owlim#sports"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://gate.ac.uk/owlim#member_of -->
+
+    <owl:ObjectProperty rdf:about="http://gate.ac.uk/owlim#member_of">
+        <rdfs:label rdf:datatype="&xsd;string">member_of</rdfs:label>
+        <rdfs:domain rdf:resource="http://gate.ac.uk/owlim#athlete"/>
+        <rdfs:range rdf:resource="http://gate.ac.uk/owlim#team"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://gate.ac.uk/owlim#nationality -->
+
+    <owl:DatatypeProperty rdf:about="http://gate.ac.uk/owlim#nationality">
+        <rdfs:label rdf:datatype="&xsd;string">nationality</rdfs:label>
+        <rdfs:domain rdf:resource="http://gate.ac.uk/owlim#sport_entity"/>
+        <rdfs:range rdf:resource="&xsd;boolean"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://gate.ac.uk/owlim#sponsored_by -->
+
+    <owl:DatatypeProperty rdf:about="http://gate.ac.uk/owlim#sponsored_by">
+        <rdfs:label rdf:datatype="&xsd;string">sponsored_by</rdfs:label>
+        <rdfs:domain rdf:resource="http://gate.ac.uk/owlim#sport_entity"/>
+        <rdfs:range rdf:resource="&xsd;boolean"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://gate.ac.uk/owlim#athlete -->
+
+    <owl:Class rdf:about="http://gate.ac.uk/owlim#athlete">
+        <rdfs:label rdf:datatype="&xsd;string">athlete</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://gate.ac.uk/owlim#sport_entity"/>
+        <owl:disjointWith rdf:resource="http://gate.ac.uk/owlim#team"/>
+    </owl:Class>
+    
+
+
+    <!-- http://gate.ac.uk/owlim#sport_entity -->
+
+    <owl:Class rdf:about="http://gate.ac.uk/owlim#sport_entity">
+        <rdfs:label rdf:datatype="&xsd;string">sport_entity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://gate.ac.uk/owlim#sports -->
+
+    <owl:Class rdf:about="http://gate.ac.uk/owlim#sports">
+        <rdfs:label rdf:datatype="&xsd;string">sports</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://gate.ac.uk/owlim#team -->
+
+    <owl:Class rdf:about="http://gate.ac.uk/owlim#team">
+        <rdfs:label rdf:datatype="&xsd;string">team</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://gate.ac.uk/owlim#sport_entity"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.1.0.20069) http://owlapi.sourceforge.net -->
+
