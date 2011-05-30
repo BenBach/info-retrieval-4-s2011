@@ -23,56 +23,56 @@ def write_perms(word, f, split=True):
 
     return None
 
-# f_defs = codecs.open('gazetteer_lists/definitions.def', 'w', encoding="utf-8")
+f_defs = codecs.open('gazetteer_lists/definitions.def', 'w', encoding="utf-8")
 
 ####################################################################################################
 # sports
 ####################################################################################################
 
-# sports_query = [{
-#       "id":    None,
-#       "name":  None,
-#       "type":  "/sports/sport"
-#     }]
+sports_query = [{
+      "id":    None,
+      "name":  None,
+      "type":  "/sports/sport"
+    }]
 
-# sports = freebase.mqlreaditer(sports_query, asof=None)
+sports = freebase.mqlreaditer(sports_query, asof=None)
 
-# f_sports = codecs.open('gazetteer_lists/sports.lst', 'w', encoding="utf-8")
+f_sports = codecs.open('gazetteer_lists/sports.lst', 'w', encoding="utf-8")
 
-# for sport in sports:
-#     write_perms(sport.name, f_sports)
+for sport in sports:
+    write_perms(sport.name, f_sports)
 
-# f_sports.close()
+f_sports.close()
 
-# f_defs.write("sports.lst:sport\n")
+f_defs.write("sports.lst:sport\n")
 
 ####################################################################################################
 # teams
 ####################################################################################################
 
-# teams_query = [{
-#       "id":            None,
-#       "name":          None,
-#       "abbreviation":  None,
-#       "type":          "/sports/sports_team"
-#     }]
+teams_query = [{
+      "id":            None,
+      "name":          None,
+      "abbreviation":  None,
+      "type":          "/sports/sports_team"
+    }]
 
-# teams = freebase.mqlreaditer(teams_query, asof=None)
+teams = freebase.mqlreaditer(teams_query, asof=None)
 
-# f_teams = codecs.open('gazetteer_lists/teams.lst', 'w', encoding='utf-8')
-# f_team_abbrevs = codecs.open('gazetteer_lists/team_abbrevs.lst', 'w', encoding='utf-8')
+f_teams = codecs.open('gazetteer_lists/teams.lst', 'w', encoding='utf-8')
+f_team_abbrevs = codecs.open('gazetteer_lists/team_abbrevs.lst', 'w', encoding='utf-8')
 
-# for team in teams:
-#     write_perms(team.name, f_teams)
+for team in teams:
+    write_perms(team.name, f_teams)
 
-#     if team.abbreviation != None:
-#         write_perms(team.abbreviation, f_team_abbrevs, split=False)
+    if team.abbreviation != None:
+        write_perms(team.abbreviation, f_team_abbrevs, split=False)
 
-# f_teams.close()
-# f_team_abbrevs.close()
+f_teams.close()
+f_team_abbrevs.close()
 
-# f_defs.write("teams.lst:team\n")
-# f_defs.write("team_abbrevs.lst:team:team_abbrev\n")
+f_defs.write("teams.lst:team\n")
+f_defs.write("team_abbrevs.lst:team:team_abbrev\n")
 
 ####################################################################################################
 # athletes
@@ -114,7 +114,7 @@ for athlete in athlete_names:
 
 f_athletes.close()
 
-# f_defs.write("athletes.lst:athlete\n")
-# f_defs.write("athlete_aliases.lst:athlete:athlete_alias\n")
+f_defs.write("athletes.lst:athlete\n")
+f_defs.write("athlete_aliases.lst:athlete:athlete_alias\n")
 
-# f_defs.close()
+f_defs.close()
