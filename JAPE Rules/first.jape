@@ -1,31 +1,3 @@
-Phase:	First
-Input: Token Lookup
-Options: control = once
-
-
-Macro: SPACE
-// space
-// control
-// space control
-// control space
-
-( 
- ({SpaceToken.kind == space}
-  ({SpaceToken.kind == control})?
-  ({SpaceToken.kind == control})?
- )
-|
- ({SpaceToken.kind == control}
-  ({SpaceToken.kind == control})?
-  ({SpaceToken.kind == space})?
- )
-)
-
-//Rule: Silly
-// we have to have a rule here, so we'll just have something silly
-
-//{Token} --> {}
-
 Phase:   Athlete
 Input: Lookup Token
 Options: control = appelt
