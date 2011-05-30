@@ -17,16 +17,13 @@
         <urlString>$gatehome$plugins/Gazetteer_Ontology_Based/</urlString>
       </gate.util.persistence.PersistenceManager-URLHolder>
       <gate.util.persistence.PersistenceManager-URLHolder>
-        <urlString>$gatehome$plugins/Ontology/</urlString>
-      </gate.util.persistence.PersistenceManager-URLHolder>
-      <gate.util.persistence.PersistenceManager-URLHolder>
         <urlString>$gatehome$plugins/Ontology_Tools/</urlString>
       </gate.util.persistence.PersistenceManager-URLHolder>
       <gate.util.persistence.PersistenceManager-URLHolder>
-        <urlString>$gatehome$plugins/OpenNLP/</urlString>
+        <urlString>$gatehome$plugins/Ontology_OWLIM2/</urlString>
       </gate.util.persistence.PersistenceManager-URLHolder>
       <gate.util.persistence.PersistenceManager-URLHolder>
-        <urlString>$gatehome$plugins/Ontology_OWLIM2/</urlString>
+        <urlString>$gatehome$plugins/OpenNLP/</urlString>
       </gate.util.persistence.PersistenceManager-URLHolder>
       <gate.util.persistence.PersistenceManager-URLHolder>
         <urlString>$gatehome$plugins/Jape_Compiler/</urlString>
@@ -39,7 +36,7 @@
       <docList>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport1.txt_001F7</resourceName>
+          <resourceName>sport1.txt_0001F</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -53,7 +50,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -86,7 +83,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport10.txt_001F8</resourceName>
+          <resourceName>sport10.txt_00020</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -100,7 +97,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -133,7 +130,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport100.txt_001F9</resourceName>
+          <resourceName>sport100.txt_00021</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -147,7 +144,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -180,7 +177,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport101.txt_001FA</resourceName>
+          <resourceName>sport101.txt_00022</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -194,7 +191,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -227,7 +224,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport102.txt_001FB</resourceName>
+          <resourceName>sport102.txt_00023</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -241,7 +238,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -274,7 +271,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport103.txt_001FC</resourceName>
+          <resourceName>sport103.txt_00024</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -288,7 +285,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -321,7 +318,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport104.txt_001FD</resourceName>
+          <resourceName>sport104.txt_00025</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -335,7 +332,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -368,7 +365,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport105.txt_001FE</resourceName>
+          <resourceName>sport105.txt_00026</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -382,7 +379,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -415,7 +412,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport106.txt_001FF</resourceName>
+          <resourceName>sport106.txt_00027</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -429,7 +426,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -462,7 +459,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport107.txt_00200</resourceName>
+          <resourceName>sport107.txt_00028</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -476,7 +473,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -509,7 +506,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport108.txt_00201</resourceName>
+          <resourceName>sport108.txt_00029</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -523,7 +520,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -556,7 +553,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport109.txt_00202</resourceName>
+          <resourceName>sport109.txt_0002A</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -570,7 +567,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -603,7 +600,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport11.txt_00203</resourceName>
+          <resourceName>sport11.txt_0002B</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -617,7 +614,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -650,7 +647,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport110.txt_00204</resourceName>
+          <resourceName>sport110.txt_0002C</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -664,7 +661,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -697,7 +694,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport111.txt_00205</resourceName>
+          <resourceName>sport111.txt_0002D</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -711,7 +708,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -744,7 +741,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport112.txt_00206</resourceName>
+          <resourceName>sport112.txt_0002E</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -758,7 +755,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -791,7 +788,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport113.txt_00207</resourceName>
+          <resourceName>sport113.txt_0002F</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -805,7 +802,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -838,7 +835,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport114.txt_00208</resourceName>
+          <resourceName>sport114.txt_00030</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -852,7 +849,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -885,7 +882,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport115.txt_00209</resourceName>
+          <resourceName>sport115.txt_00031</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -899,7 +896,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -932,7 +929,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport116.txt_0020A</resourceName>
+          <resourceName>sport116.txt_00032</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -946,7 +943,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -979,7 +976,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport117.txt_0020B</resourceName>
+          <resourceName>sport117.txt_00033</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -993,7 +990,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -1026,7 +1023,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport118.txt_0020C</resourceName>
+          <resourceName>sport118.txt_00034</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -1040,7 +1037,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -1073,7 +1070,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport12.txt_0020D</resourceName>
+          <resourceName>sport12.txt_00035</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -1087,7 +1084,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -1120,7 +1117,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport13.txt_0020E</resourceName>
+          <resourceName>sport13.txt_00036</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -1134,7 +1131,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -1167,7 +1164,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport14.txt_0020F</resourceName>
+          <resourceName>sport14.txt_00037</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -1181,7 +1178,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -1214,7 +1211,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport15.txt_00210</resourceName>
+          <resourceName>sport15.txt_00038</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -1228,7 +1225,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -1261,7 +1258,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport16.txt_00211</resourceName>
+          <resourceName>sport16.txt_00039</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -1275,7 +1272,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -1308,7 +1305,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport17.txt_00212</resourceName>
+          <resourceName>sport17.txt_0003A</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -1322,7 +1319,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -1355,7 +1352,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport18.txt_00213</resourceName>
+          <resourceName>sport18.txt_0003B</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -1369,7 +1366,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -1402,7 +1399,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport19.txt_00214</resourceName>
+          <resourceName>sport19.txt_0003C</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -1416,7 +1413,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -1449,7 +1446,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport2.txt_00215</resourceName>
+          <resourceName>sport2.txt_0003D</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -1463,7 +1460,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -1496,7 +1493,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport20.txt_00216</resourceName>
+          <resourceName>sport20.txt_0003E</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -1510,7 +1507,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -1543,7 +1540,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport21.txt_00217</resourceName>
+          <resourceName>sport21.txt_0003F</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -1557,7 +1554,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -1590,7 +1587,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport22.txt_00218</resourceName>
+          <resourceName>sport22.txt_00040</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -1604,7 +1601,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -1637,7 +1634,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport23.txt_00219</resourceName>
+          <resourceName>sport23.txt_00041</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -1651,7 +1648,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -1684,7 +1681,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport24.txt_0021A</resourceName>
+          <resourceName>sport24.txt_00042</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -1698,7 +1695,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -1731,7 +1728,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport25.txt_0021B</resourceName>
+          <resourceName>sport25.txt_00043</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -1745,7 +1742,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -1778,7 +1775,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport26.txt_0021C</resourceName>
+          <resourceName>sport26.txt_00044</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -1792,7 +1789,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -1825,7 +1822,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport27.txt_0021D</resourceName>
+          <resourceName>sport27.txt_00045</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -1839,7 +1836,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -1872,7 +1869,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport28.txt_0021E</resourceName>
+          <resourceName>sport28.txt_00046</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -1886,7 +1883,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -1919,7 +1916,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport29.txt_0021F</resourceName>
+          <resourceName>sport29.txt_00047</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -1933,7 +1930,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -1966,7 +1963,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport3.txt_00220</resourceName>
+          <resourceName>sport3.txt_00048</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -1980,7 +1977,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -2013,7 +2010,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport30.txt_00221</resourceName>
+          <resourceName>sport30.txt_00049</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -2027,7 +2024,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -2060,7 +2057,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport31.txt_00222</resourceName>
+          <resourceName>sport31.txt_0004A</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -2074,7 +2071,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -2107,7 +2104,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport32.txt_00223</resourceName>
+          <resourceName>sport32.txt_0004B</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -2121,7 +2118,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -2154,7 +2151,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport33.txt_00224</resourceName>
+          <resourceName>sport33.txt_0004C</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -2168,7 +2165,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -2201,7 +2198,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport34.txt_00225</resourceName>
+          <resourceName>sport34.txt_0004D</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -2215,7 +2212,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -2248,7 +2245,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport35.txt_00226</resourceName>
+          <resourceName>sport35.txt_0004E</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -2262,7 +2259,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -2295,7 +2292,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport36.txt_00227</resourceName>
+          <resourceName>sport36.txt_0004F</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -2309,7 +2306,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -2342,7 +2339,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport37.txt_00228</resourceName>
+          <resourceName>sport37.txt_00050</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -2356,7 +2353,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -2389,7 +2386,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport38.txt_00229</resourceName>
+          <resourceName>sport38.txt_00051</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -2403,7 +2400,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -2436,7 +2433,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport39.txt_0022A</resourceName>
+          <resourceName>sport39.txt_00052</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -2450,7 +2447,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -2483,7 +2480,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport4.txt_0022B</resourceName>
+          <resourceName>sport4.txt_00053</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -2497,7 +2494,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -2530,7 +2527,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport40.txt_0022C</resourceName>
+          <resourceName>sport40.txt_00054</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -2544,7 +2541,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -2577,7 +2574,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport41.txt_0022D</resourceName>
+          <resourceName>sport41.txt_00055</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -2591,7 +2588,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -2624,7 +2621,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport42.txt_0022E</resourceName>
+          <resourceName>sport42.txt_00056</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -2638,7 +2635,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -2671,7 +2668,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport43.txt_0022F</resourceName>
+          <resourceName>sport43.txt_00057</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -2685,7 +2682,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -2718,7 +2715,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport44.txt_00230</resourceName>
+          <resourceName>sport44.txt_00058</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -2732,7 +2729,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -2765,7 +2762,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport45.txt_00231</resourceName>
+          <resourceName>sport45.txt_00059</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -2779,7 +2776,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -2812,7 +2809,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport46.txt_00232</resourceName>
+          <resourceName>sport46.txt_0005A</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -2826,7 +2823,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -2859,7 +2856,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport47.txt_00233</resourceName>
+          <resourceName>sport47.txt_0005B</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -2873,7 +2870,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -2906,7 +2903,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport48.txt_00234</resourceName>
+          <resourceName>sport48.txt_0005C</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -2920,7 +2917,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -2953,7 +2950,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport49.txt_00235</resourceName>
+          <resourceName>sport49.txt_0005D</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -2967,7 +2964,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -3000,7 +2997,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport5.txt_00236</resourceName>
+          <resourceName>sport5.txt_0005E</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -3014,7 +3011,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -3047,7 +3044,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport50.txt_00237</resourceName>
+          <resourceName>sport50.txt_0005F</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -3061,7 +3058,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -3094,7 +3091,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport51.txt_00238</resourceName>
+          <resourceName>sport51.txt_00060</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -3108,7 +3105,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -3141,7 +3138,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport52.txt_00239</resourceName>
+          <resourceName>sport52.txt_00061</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -3155,7 +3152,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -3188,7 +3185,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport53.txt_0023A</resourceName>
+          <resourceName>sport53.txt_00062</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -3202,7 +3199,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -3235,7 +3232,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport54.txt_0023B</resourceName>
+          <resourceName>sport54.txt_00063</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -3249,7 +3246,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -3282,7 +3279,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport55.txt_0023C</resourceName>
+          <resourceName>sport55.txt_00064</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -3296,7 +3293,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -3329,7 +3326,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport56.txt_0023D</resourceName>
+          <resourceName>sport56.txt_00065</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -3343,7 +3340,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -3376,7 +3373,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport57.txt_0023E</resourceName>
+          <resourceName>sport57.txt_00066</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -3390,7 +3387,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -3423,7 +3420,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport58.txt_0023F</resourceName>
+          <resourceName>sport58.txt_00067</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -3437,7 +3434,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -3470,7 +3467,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport59.txt_00240</resourceName>
+          <resourceName>sport59.txt_00068</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -3484,7 +3481,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -3517,7 +3514,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport6.txt_00241</resourceName>
+          <resourceName>sport6.txt_00069</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -3531,7 +3528,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -3564,7 +3561,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport60.txt_00242</resourceName>
+          <resourceName>sport60.txt_0006A</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -3578,7 +3575,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -3611,7 +3608,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport61.txt_00243</resourceName>
+          <resourceName>sport61.txt_0006B</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -3625,7 +3622,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -3658,7 +3655,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport62.txt_00244</resourceName>
+          <resourceName>sport62.txt_0006C</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -3672,7 +3669,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -3705,7 +3702,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport63.txt_00245</resourceName>
+          <resourceName>sport63.txt_0006D</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -3719,7 +3716,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -3752,7 +3749,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport64.txt_00246</resourceName>
+          <resourceName>sport64.txt_0006E</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -3766,7 +3763,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -3799,7 +3796,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport65.txt_00247</resourceName>
+          <resourceName>sport65.txt_0006F</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -3813,7 +3810,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -3846,7 +3843,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport66.txt_00248</resourceName>
+          <resourceName>sport66.txt_00070</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -3860,7 +3857,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -3893,7 +3890,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport67.txt_00249</resourceName>
+          <resourceName>sport67.txt_00071</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -3907,7 +3904,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -3940,7 +3937,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport68.txt_0024A</resourceName>
+          <resourceName>sport68.txt_00072</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -3954,7 +3951,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -3987,7 +3984,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport69.txt_0024B</resourceName>
+          <resourceName>sport69.txt_00073</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -4001,7 +3998,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -4034,7 +4031,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport7.txt_0024C</resourceName>
+          <resourceName>sport7.txt_00074</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -4048,7 +4045,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -4081,7 +4078,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport70.txt_0024D</resourceName>
+          <resourceName>sport70.txt_00075</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -4095,7 +4092,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -4128,7 +4125,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport71.txt_0024E</resourceName>
+          <resourceName>sport71.txt_00076</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -4142,7 +4139,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -4175,7 +4172,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport72.txt_0024F</resourceName>
+          <resourceName>sport72.txt_00077</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -4189,7 +4186,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -4222,7 +4219,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport73.txt_00250</resourceName>
+          <resourceName>sport73.txt_00078</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -4236,7 +4233,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -4269,7 +4266,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport74.txt_00251</resourceName>
+          <resourceName>sport74.txt_00079</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -4283,7 +4280,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -4316,7 +4313,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport75.txt_00252</resourceName>
+          <resourceName>sport75.txt_0007A</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -4330,7 +4327,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -4363,7 +4360,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport76.txt_00253</resourceName>
+          <resourceName>sport76.txt_0007B</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -4377,7 +4374,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -4410,7 +4407,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport77.txt_00254</resourceName>
+          <resourceName>sport77.txt_0007C</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -4424,7 +4421,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -4457,7 +4454,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport78.txt_00255</resourceName>
+          <resourceName>sport78.txt_0007D</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -4471,7 +4468,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -4504,7 +4501,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport79.txt_00256</resourceName>
+          <resourceName>sport79.txt_0007E</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -4518,7 +4515,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -4551,7 +4548,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport8.txt_00257</resourceName>
+          <resourceName>sport8.txt_0007F</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -4565,7 +4562,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -4598,7 +4595,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport80.txt_00258</resourceName>
+          <resourceName>sport80.txt_00080</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -4612,7 +4609,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -4645,7 +4642,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport81.txt_00259</resourceName>
+          <resourceName>sport81.txt_00081</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -4659,7 +4656,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -4692,7 +4689,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport82.txt_0025A</resourceName>
+          <resourceName>sport82.txt_00082</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -4706,7 +4703,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -4739,7 +4736,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport83.txt_0025B</resourceName>
+          <resourceName>sport83.txt_00083</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -4753,7 +4750,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -4786,7 +4783,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport84.txt_0025C</resourceName>
+          <resourceName>sport84.txt_00084</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -4800,7 +4797,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -4833,7 +4830,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport85.txt_0025D</resourceName>
+          <resourceName>sport85.txt_00085</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -4847,7 +4844,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -4880,7 +4877,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport86.txt_0025E</resourceName>
+          <resourceName>sport86.txt_00086</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -4894,7 +4891,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -4927,7 +4924,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport87.txt_0025F</resourceName>
+          <resourceName>sport87.txt_00087</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -4941,7 +4938,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -4974,7 +4971,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport88.txt_00260</resourceName>
+          <resourceName>sport88.txt_00088</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -4988,7 +4985,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -5021,7 +5018,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport89.txt_00261</resourceName>
+          <resourceName>sport89.txt_00089</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -5035,7 +5032,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -5068,7 +5065,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport9.txt_00262</resourceName>
+          <resourceName>sport9.txt_0008A</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -5082,7 +5079,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -5115,7 +5112,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport90.txt_00263</resourceName>
+          <resourceName>sport90.txt_0008B</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -5129,7 +5126,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -5162,7 +5159,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport91.txt_00264</resourceName>
+          <resourceName>sport91.txt_0008C</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -5176,7 +5173,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -5209,7 +5206,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport92.txt_00265</resourceName>
+          <resourceName>sport92.txt_0008D</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -5223,7 +5220,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -5256,7 +5253,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport93.txt_00266</resourceName>
+          <resourceName>sport93.txt_0008E</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -5270,7 +5267,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -5303,7 +5300,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport94.txt_00267</resourceName>
+          <resourceName>sport94.txt_0008F</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -5317,7 +5314,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -5350,7 +5347,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport95.txt_00268</resourceName>
+          <resourceName>sport95.txt_00090</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -5364,7 +5361,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -5397,7 +5394,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport96.txt_00269</resourceName>
+          <resourceName>sport96.txt_00091</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -5411,7 +5408,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -5444,7 +5441,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport97.txt_0026A</resourceName>
+          <resourceName>sport97.txt_00092</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -5458,7 +5455,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -5491,7 +5488,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport98.txt_0026B</resourceName>
+          <resourceName>sport98.txt_00093</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -5505,7 +5502,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -5538,7 +5535,7 @@
         </gate.util.persistence.LRPersistence>
         <gate.util.persistence.LRPersistence>
           <resourceType>gate.corpora.DocumentImpl</resourceType>
-          <resourceName>sport99.txt_0026C</resourceName>
+          <resourceName>sport99.txt_00094</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -5552,7 +5549,7 @@
               </entry>
               <entry>
                 <string>encoding</string>
-                <string>UTF-8</string>
+                <string>MacRoman</string>
               </entry>
               <entry>
                 <string>sourceUrlStartOffset</string>
@@ -5585,7 +5582,7 @@
         </gate.util.persistence.LRPersistence>
       </docList>
       <resourceType>gate.corpora.CorpusImpl</resourceType>
-      <resourceName>sports_corpus</resourceName>
+      <resourceName>GATE Corpus_0001E</resourceName>
       <initParams class="gate.util.persistence.MapPersistence">
         <mapType>gate.util.SimpleFeatureMapImpl</mapType>
         <localMap>
@@ -5755,7 +5752,7 @@
             </localMap>
           </runtimeParams>
           <resourceType>gate.creole.gazetteer.DefaultGazetteer</resourceType>
-          <resourceName>ANNIE Gazetteer_0005E</resourceName>
+          <resourceName>ANNIE Gazetteer_00016</resourceName>
           <initParams class="gate.util.persistence.MapPersistence">
             <mapType>gate.util.SimpleFeatureMapImpl</mapType>
             <localMap>
@@ -5766,7 +5763,7 @@
               <entry>
                 <string>listsURL</string>
                 <gate.util.persistence.PersistenceManager-URLHolder>
-                  <urlString>$relpath$gazetteer_lists/gazetteer_lists</urlString>
+                  <urlString>$relpath$gazetteer_lists/definitions.def</urlString>
                 </gate.util.persistence.PersistenceManager-URLHolder>
               </entry>
               <entry>
@@ -5868,7 +5865,33 @@
               </entry>
               <entry>
                 <string>ontology</string>
-                <null/>
+                <gate.util.persistence.LRPersistence>
+                  <resourceType>gate.creole.ontology.owlim.OWLIMOntologyLR</resourceType>
+                  <resourceName>sports_ontology.xml_00095</resourceName>
+                  <initParams class="gate.util.persistence.MapPersistence">
+                    <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+                    <localMap>
+                      <entry>
+                        <string>defaultNameSpace</string>
+                        <string>http://gate.ac.uk/owlim#</string>
+                      </entry>
+                      <entry>
+                        <string>rdfXmlURL</string>
+                        <gate.util.persistence.PersistenceManager-URLHolder>
+                          <urlString>$relpath$ontology/sports_ontology.xml</urlString>
+                        </gate.util.persistence.PersistenceManager-URLHolder>
+                      </entry>
+                      <entry>
+                        <string>ntriplesURL</string>
+                        <null/>
+                      </entry>
+                      <entry>
+                        <string>turtleURL</string>
+                        <null/>
+                      </entry>
+                    </localMap>
+                  </initParams>
+                </gate.util.persistence.LRPersistence>
               </entry>
               <entry>
                 <string>inputASName</string>

@@ -13,20 +13,20 @@ Rule: Athlete1
 -->
  :athlete.Athlete = {rule = "Athlete1"}
  
- Phase:   Sports
+ Phase:   Sport
 Input: Lookup Token
 Options: control = appelt
 
-Rule: Sports1
+Rule: Sport1
 (
- {Lookup.majorType == sports} 
+ {Lookup.majorType == sport} 
  (
-  {Lookup.majorType == sports} 
+  {Lookup.majorType == sport} 
  )?
 )
-:sports
+:sport
 -->
- :sports.Sports = {rule = "Sports1"}
+ :sport.Sport = {rule = "Sport1"}
  
  Phase:   Team
 Input: Lookup Token
