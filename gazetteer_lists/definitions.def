@@ -1,0 +1,5 @@
+athlete_aliases.lst:athlete:athlete_alias
+athletes.lst:athlete
+sports.lst:sport
+team_abbrevs.lst:team:team_abbrev
+teams.lst:team
