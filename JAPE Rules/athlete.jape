@@ -1,0 +1,14 @@
+Phase:   Athlete
+Input: Lookup Token
+Options: control = appelt
+
+Rule: Athlete1
+(
+ {Lookup.majorType == athlete} 
+ (
+  {Lookup.majorType == athlete} 
+ )?
+)
+:athlete
+-->
+ :athlete.Athlete = {rule = "Athlete1"}
