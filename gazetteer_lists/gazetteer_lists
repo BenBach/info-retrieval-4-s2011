@@ -64,7 +64,6 @@ racecourse.lst:location:racecourse
 region_cap.lst:location:region
 region.lst:location:region
 region_uk.lst:location:region
-sports.lst:sport
 spur_ident.lst:spur_ident
 stop.lst:stop
 street.lst:address:street
@@ -82,4 +81,4 @@ title_pol.lst:title:police
 tvcompany.lst:organization:company
 water.lst:location:region
 year.lst:year
-sports2.lst:sport
+sports.lst:sport
