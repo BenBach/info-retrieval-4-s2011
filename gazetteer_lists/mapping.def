@@ -1,3 +1,6 @@
 athlete.lst:http://gate.ac.uk/tests/demo.owl:Athlete
-sports2.lst:http://gate.ac.uk/tests/demo.owl:Sport
+athlete_aliases:http://gate.ac.uk/tests/demo.owl:Athlete
+athletes:http://gate.ac.uk/tests/demo.owl:Athlete
+sports.lst:http://gate.ac.uk/tests/demo.owl:Sport
+team_abbrevs.lst:http://gate.ac.uk/tests/demo.owl:Team
 team.lst:http://gate.ac.uk/tests/demo.owl:Team
